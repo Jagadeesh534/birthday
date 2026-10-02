@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <p>
-        Made with <FiHeart aria-label="love" className="footer__heart" /> for Rashmi Jiii
+       Handcrafted with <FiHeart aria-label="love" className="footer__heart" /> by Jagadeesh
       </p>
     </footer>
   )

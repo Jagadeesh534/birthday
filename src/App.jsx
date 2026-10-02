@@ -49,6 +49,7 @@ export default function App() {
         </Suspense>
       )}
 
+      {stage !== 'loading' && <Footer />}
     </>
   )
 }
